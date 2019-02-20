@@ -13,7 +13,7 @@ role = "Scientist Computational Biology at 23andMe"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "23andMe", url = "" },{name="University of Chicago", url=""},{name="University of California Berkeley", url=""} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -24,10 +24,8 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Human Genetics",
-  "Genomics",
-  "Science Communication",
-  "Science Art"
+  "Human Genetics & Genomics"
+  "Science Communication & Art"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -41,8 +39,8 @@ user_groups = ["Researchers", "Visitors"]
   year = 2018
 
 [[education.courses]]
-  course = "BA in Molecular and Cell Biology : Genetics, Genomics & Development & Minor in Creative Writing"
-  institution = "UC Berkeley"
+  course = "BA in Molecular and Cell Biology : Genetics, Genomics & Development \n Minor in Creative Writing"
+  institution = "University of California at Berkeley"
   year = 2013
 
 # Social/Academic Networking
