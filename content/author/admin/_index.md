@@ -24,7 +24,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Human Genetics & Genomics"
+  "Human Genetics & Genomics",
   "Science Communication & Art"
 ]
 
