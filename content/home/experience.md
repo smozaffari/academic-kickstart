@@ -25,10 +25,10 @@ date_format = "January 2006"
   location = "Mountain View"
   date_start = "2018-09-24"
   date_end = ""
-  description = """
-  Responsibilities include:
-
-  """
+#  description = """
+#  Responsibilities include:
+#
+#  """
 
 [[experience]]
   title = "Carole Ober Lab | Graduate Student"
