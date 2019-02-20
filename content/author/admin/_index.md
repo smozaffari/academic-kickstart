@@ -18,7 +18,6 @@ organizations = [ { name = "Stanford University", url = "" } ]
 # Short bio (displayed in user profile at end of posts)
 bio = ""
 
-I also enjoy sharing scientific knowledge, through discussion, art, and articles."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
