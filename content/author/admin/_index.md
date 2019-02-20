@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Sahar Mozaffari"
+name = "Sahar Victoria Mozaffari"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -13,7 +13,7 @@ role = "Scientist Computational Biology at 23andMe"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "23andMe", url = "" },{name="University of Chicago", url=""},{name="University of California Berkeley", url=""} ]
+organizations = [ { name = "23andMe", url = "https://www.23andme.com" }, { name="University of Chicago", url="https://www.uchicago.edu/" } , { name="University of California Berkeley", url="https://www.berkeley.edu/"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -24,8 +24,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Human Genetics & Genomics",
-  "Science Communication & Art"
+  "Human Genetics",
+  "Genomics",
+  "Science Communication",
+  "Art"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -48,10 +50,10 @@ user_groups = ["Researchers", "Visitors"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+#[[social]]
+#  icon = "envelope"
+#  icon_pack = "fas"
+#  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
@@ -68,6 +70,16 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://github.com/smozaffari"
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/sahar-mozaffari-801b7b54"
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-8216-1670"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
@@ -80,4 +92,4 @@ user_groups = ["Researchers", "Visitors"]
 
 I'm a statistical geneticist interested in disentangling the relationship between genotype and phenotype in humans. I'm a problem solver driven to help advance our field in decoding the genome. My two main interests focus on how our genomes have evolved (from my background in development and evolution); as well as understanding how genetic variation contributes to human disease.
 
-I also enjoy sharing scientific knowledge, through discussion, art, and articles."
+I also enjoy sharing scientific knowledge, through discussion, art, and articles.

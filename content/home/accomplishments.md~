@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  title = "Spencer W. Brown Award in Genetics, Genomics & Development"
+  title = "Spencer W. Brown Award in Genetics, Genomics & Development
   organization = "UC Berkeley"
   certificate_url = "https://mcb.berkeley.edu/undergrad/major/honors-program/awardees"
   date_start = "2013-05-13"

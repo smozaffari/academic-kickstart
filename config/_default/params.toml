@@ -9,7 +9,7 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "playfair"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -49,9 +49,9 @@ time_format = "3:04 PM"
 ## Contact Widget setup   ##
 ############################
 
-email_form=0
+
 # Enter contact details (optional). To hide a field, clear it to "".
-#email = "test@example.org"
+email = "saharvm@gmail.com"
 #phone = "888 888 88 88"
 #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
