@@ -27,10 +27,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * 
-  * 
-  * 
+
   """
 
 [[experience]]
