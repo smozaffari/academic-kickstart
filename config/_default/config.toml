@@ -21,6 +21,8 @@ googleAnalytics = ""
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
+email_form = 0
+
 ############################
 ## Advanced options below ##
 ############################
