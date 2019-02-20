@@ -41,8 +41,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2018
 
 [[education.courses]]
-  course = "BA in Molecular and Cell Biology : Genetics, Genomics & Development
-  	   Minor in Creative Writing"
+  course = "BA in Molecular and Cell Biology : Genetics, Genomics & Development & Minor in Creative Writing"
   institution = "UC Berkeley"
   year = 2013
 
