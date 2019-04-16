@@ -50,4 +50,4 @@ weight = 9
 **Institute of Translational Medicine, University of Chicago** | *Writer* <span style="float:right;">2015</sp> 
 
 - Translate complex research into dynamic science stories. Share translational research stories in concepts with hands on activities, weekly newsletter, ITM website, and social media platforms
-
+- Article: [ITM Investigators Repurposing Common FDA-Approved Drugs to Fight Bacterial Infections](https://chicagoitm.org/news-postcat/itm-investigators-repurposing-common-fda-approved-drugs-to-fight-bacterial-infections/ "ITM article Mozaffari")
