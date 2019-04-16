@@ -3,5 +3,7 @@
 public/
 public
 *.toml~
-themes/academic
+./themes/academic
+themes/*
+themes/academic/*
 .gitignore~
