@@ -16,7 +16,7 @@ baseurl = "https://smozaffari.github.io"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-138433491-1"
+googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
