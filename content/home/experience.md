@@ -57,4 +57,29 @@ date_format = "January 2006"
   date_end = "2014-06-01"
 #  description = """Taught electronic engineering and researched semiconductor physics."""
 
+[[experience]]
+  title = "Daniel Rokhsar Lab | Undergraduate Researcher"
+  company = "UC Berkeley & Joint Genome Institute"
+  company_url = ""
+  location = "Berkeley CA"
+  date_start = "2012-05-01"
+  date_end = "2013-08-01"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
+
+
+[background]
+  # Background color.
+#   color = "#c06c84"
+
+  # Background gradient.
+  #gradient_start = "DeepSkyBlue"
+  #gradient_end = "SkyBlue"
+
+  # Background image.
+   image = "IMG_5224.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  text_color_light = true
+
 +++

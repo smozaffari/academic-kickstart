@@ -12,7 +12,7 @@ author = "admin"
 
 [background]
   # Background color.
-   color = "#f4dada"
+   color = "#352961"
 
   # Background gradient.
   #gradient_start = "DeepSkyBlue"

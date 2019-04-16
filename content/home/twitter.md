@@ -1,0 +1,32 @@
++++
+# Experience widget.
+widget = "experience"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+
+#title = "Twitter"
+#subtitle = ""
+
+# Order that this section will appear in.
+weight = 50
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "January 2006"
+
+[background]
+  # Background color.
+   color = "#f4dada"
+
+  # Background gradient.
+  #gradient_start = "DeepSkyBlue"
+  #gradient_end = "SkyBlue"
+
+  # Background image.
+#   image = "IMG_5224.jpg"  # Name of image in `static/img/`.
+#   image_darken = 0.9  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  text_color_light = false
+
++++
+<a class="twitter-timeline" data-width="1200" data-height="800" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/SaharMozaffari?ref_src=twsrc%5Etfw">Tweets by SaharMozaffari</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
